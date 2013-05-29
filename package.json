@@ -1,0 +1,16 @@
+{
+	"name": "chat.js",
+	"version": "0.1.0",
+	"private": true,
+	"scripts": {
+		"start": "node app"
+	},
+	"dependencies": {
+		"express": "*",
+		"jade": "*",
+		"less-middleware": "*",
+		"express-logger": "*",
+		"connect-redis": "*",
+		"redis": "*"
+	}
+}
